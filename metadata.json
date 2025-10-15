@@ -1,0 +1,5 @@
+{
+  "name": "Click Challenge Leaderboard",
+  "description": "A real-time scoreboard for the office Click Challenge, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
